@@ -9,10 +9,10 @@
   
 <pre>
 💻 Frontend Developer in training  
-🌐 Building modern and responsive web interfaces  
-🎨 Interested in user experience and UI design  
-🧪 Knowledge of testing and software quality  
-🚀 Building web projects and continuously learning new technologies  
+🌐 Building responsive and functional web interfaces  
+🎨 Focused on user experience and clean UI design  
+🧪 Applying basic testing practices to improve software quality  
+🚀 Continuously learning and building web projects
 </pre>
 
 </td>
