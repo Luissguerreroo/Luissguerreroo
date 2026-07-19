@@ -28,8 +28,7 @@
 <table>
 <tr>
 <td>
-
-### 👨‍💻 About Me
+👨‍💻 About Me
 
 I am a Systems Engineering student passionate about software development and continuous learning. I enjoy building real-world projects, exploring both frontend and backend technologies, collaborating in team environments, and continuously improving my technical and problem-solving skills.
 
